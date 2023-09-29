@@ -1,2 +1,1 @@
-# scissors-paper-rock
-Scissors Paper Rock Game
+Scissors Paper Rock Game created as part of The Odin Project Fundamentals course.
