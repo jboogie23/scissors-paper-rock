@@ -62,8 +62,7 @@ function playRound(playerSelection) {
       disableButtons();
     }
   }
-
-  document.getElementById("result").innerHTML = result;
+  document.querySelector("#result").innerHTML = result;
   return;
 }
 
